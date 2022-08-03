@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Agency Profit", "01. Agency Profit\01. Agency Profit.csproj", "{9E54271E-16D0-4D90-93B2-3A2B1FB53BCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Add Bags", "02. Add Bags\02. Add Bags.csproj", "{B15D188A-7C9F-4D46-AF37-A2938E78E93F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E54271E-16D0-4D90-93B2-3A2B1FB53BCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E54271E-16D0-4D90-93B2-3A2B1FB53BCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E54271E-16D0-4D90-93B2-3A2B1FB53BCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E54271E-16D0-4D90-93B2-3A2B1FB53BCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B15D188A-7C9F-4D46-AF37-A2938E78E93F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B15D188A-7C9F-4D46-AF37-A2938E78E93F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B15D188A-7C9F-4D46-AF37-A2938E78E93F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B15D188A-7C9F-4D46-AF37-A2938E78E93F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E06BFD31-5F3D-4602-8DB3-BE4D3EA472DF}
+	EndGlobalSection
+EndGlobal

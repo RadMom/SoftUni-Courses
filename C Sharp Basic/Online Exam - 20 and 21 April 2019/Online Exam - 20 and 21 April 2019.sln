@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Easter Decoration", "06. Easter Decoration\06. Easter Decoration.csproj", "{8D2CE642-2907-4147-81A7-4E68F6A5ACFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Easter Competition", "06. Easter Competition\06. Easter Competition.csproj", "{C436BE47-0FCE-4ECF-ABF5-D000795EC042}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D2CE642-2907-4147-81A7-4E68F6A5ACFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D2CE642-2907-4147-81A7-4E68F6A5ACFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D2CE642-2907-4147-81A7-4E68F6A5ACFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D2CE642-2907-4147-81A7-4E68F6A5ACFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C436BE47-0FCE-4ECF-ABF5-D000795EC042}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C436BE47-0FCE-4ECF-ABF5-D000795EC042}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C436BE47-0FCE-4ECF-ABF5-D000795EC042}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C436BE47-0FCE-4ECF-ABF5-D000795EC042}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EA68CB7-BBA4-484D-B590-14DFC41746A4}
+	EndGlobalSection
+EndGlobal
