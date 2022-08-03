@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _1._Train
+namespace _01._Train
 {
     internal class Program
     {
