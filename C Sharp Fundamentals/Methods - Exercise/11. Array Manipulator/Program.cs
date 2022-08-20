@@ -220,7 +220,7 @@ namespace _11._Array_Manipulator
 
         }
 
-        private static int[] ExchangedArray(int[] arr, int splitIndex)
+  More Exercise: Methods      private static int[] ExchangedArray(int[] arr, int splitIndex)
         {
             if (splitIndex >= arr.Length || splitIndex < 0)
             {
